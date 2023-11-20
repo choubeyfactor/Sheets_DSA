@@ -29,3 +29,4 @@ public static void main(String[] args) {
     System.out.println("Index for key is : " + binarySearch(numbers, key));
 }    
 }
+//End of code
