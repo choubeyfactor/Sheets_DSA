@@ -35,7 +35,7 @@ public class removeLL {
             return;
             }
             //step2: link the last node to newnode
-            tail.next=newNode;
+            tail.next= newNode;
             //step3: update tail
             tail = newNode;
     }
