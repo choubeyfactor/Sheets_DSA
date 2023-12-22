@@ -71,3 +71,11 @@ public class NQueen2 {
 
 
 //TC-> o(n!) or [1 Queen'Place * T(n-1) + isSafe()]        ......where(1 Queenplace = O(n))
+
+
+
+
+
+
+
+//-----------------------End Of Code------------------------------//
