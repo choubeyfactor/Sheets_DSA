@@ -46,3 +46,5 @@ public class SearchInRotatedArray {
         System.out.println("Found at index: " + search(arr, target, 0, arr.length - 1));
     }
 }
+
+//--------------------------End Of Code------------------------------------------//
