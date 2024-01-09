@@ -16,6 +16,7 @@ sequence = "ababcababcabababc";
 word = "ab";
 
 The desired output here is 6 since we have a substring ababab which has ab repeated thrice.
+............................................................................................
 
 Initially, find is an empty string, and sequence contains an empty string, so the loop starts.
 After the first iteration, find becomes "ab" because "ab" is found at the beginning of the sequence.
